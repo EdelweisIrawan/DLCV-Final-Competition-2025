@@ -31,12 +31,12 @@ Open a new notebook and run:
 
 ```bash
 !git clone https://github.com/EdelweisIrawan/DLCV-Final-Competition-2025.git
-%cd DLCV-Final-Competition-2025
+%cd DLCV-Final-Competition-2025/column
 ```
 ### 3. Open the inference notebook
 - Still in Colab, go to: File > Open Notebook > Github tab
 - Paste this GitHub link: https://github.com/EdelweisIrawan/DLCV-Final-Competition-2025
-- Open the notebook: `Final_Column_Inference_Code.ipynb`
+- Open the notebook: `column/Final_Column_Inference_Code.ipynb`
 
 ### 4. Run all cells
 - Runtime > Run all
